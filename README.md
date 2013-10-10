@@ -1,4 +1,4 @@
-game-off
+Snow College Game Off
 ========
 
-Snow College game making competition
+To enter fork this repository.
